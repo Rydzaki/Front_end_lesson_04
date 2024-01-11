@@ -1,0 +1,39 @@
+/* *{
+    width: 0px;
+    height: 0px;
+} */
+
+#body{
+    background-color: rgb(117, 117, 117);
+}
+
+#mark-info{
+    margin: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+
+.mark .foto img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.mark {
+    background-color: aqua;
+}
+
+.mark .list .table td{
+
+    padding: 10px;
+    background-color: red;
+    border-radius: 20px;
+    
+}
+.mark .list .table .zalip{
+    background-color: aqua;
+}
+
+
+    
